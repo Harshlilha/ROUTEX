@@ -8,15 +8,7 @@
 
 **Route X** is an enterprise-grade AI-powered supplier intelligence platform that transforms how businesses analyze and compare suppliers. Built with cutting-edge technologies, it combines beautiful 3D animations, interactive data visualizations, and RAG-powered conversational AI.
 
-![Route X Dashboard](https://via.placeholder.com/1200x600/4f46e5/ffffff?text=Route+X+Dashboard)
-
 ## ✨ Features
-
-### 🎨 **Beautiful UI/UX**
-- **3D Animations**: Smooth hover effects with rotation, scaling, and colored shadows
-- **Multi-Gradient Backgrounds**: Dynamic color schemes (Indigo → Purple → Pink)
-- **Animated Orbs**: 4 floating background orbs with staggered animations
-- **Glass Morphism**: Modern frosted glass panels and cards
 
 ### 📊 **Interactive Dashboards**
 - **Top 10 Quality Suppliers** - Bar chart with gradient fills
@@ -212,17 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - Tailwind CSS for rapid styling
 - Supabase for seamless backend
 - React community for amazing tools
-
-## 📸 Screenshots
-
-### Dashboard with Charts
-![Dashboard](https://via.placeholder.com/800x500/4f46e5/ffffff?text=Dashboard+View)
-
-### AI Chatbot Interface
-![Chatbot](https://via.placeholder.com/800x500/8b5cf6/ffffff?text=AI+Chatbot)
-
-### Search Autocomplete
-![Search](https://via.placeholder.com/800x500/ec4899/ffffff?text=Smart+Search)
 
 ---
 
