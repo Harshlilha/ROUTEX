@@ -1,0 +1,201 @@
+supplier,quality_score,quantity_capacity,conditions_and_method_of_payment,serviceability_and_communicativeness,reputation_and_competence,flexibility,financial_condition,supplier_asset_condition,business_results,number_of_employees,price_per_unit_inr,delivery_time_days,supplier_location,traffic_connections
+Tata AutoComp Systems,77.36,132432,"Advance 30%, Balance 70%",67.15,89.63,78.87,80.16,63.8,₹1650.63 Crore Turnover,44251,2745.89,4,Bangalore,Moderate Urban Traffic Access
+Mahindra Logistics,65.68,1269,Net 45 Days,88.16,95.67,55.03,98.74,83.46,₹2171.85 Crore Turnover,6516,8059.15,18,Bangalore,Near Industrial Corridor
+Larsen & Toubro,82.32,84978,Quarterly Credit Settlement,65.44,71.1,69.65,80.51,89.84,₹762.88 Crore Turnover,1387,11008.58,4,Bangalore,Near Industrial Corridor
+TVS Motor Components,93.38,42106,Net 30 Days,66.65,62.47,92.96,97.83,90.72,₹1121.78 Crore Turnover,2732,4363.83,16,Bangalore,Excellent Highway & Port Connectivity
+Kirloskar Pneumatics,87.55,49055,Net 45 Days,79.31,61.31,91.37,73.8,85.18,₹1146.05 Crore Turnover,11773,3941.97,5,Bangalore,Good Highway Connectivity
+Bosch India,71.1,177330,LC at Sight,92.85,77.09,70.81,96.51,87.64,₹1196.77 Crore Turnover,40517,3722.17,26,Bangalore,Good Highway Connectivity
+ABB India,96.72,23747,Net 45 Days,89.15,80.51,78.47,97.82,83.07,₹1023.92 Crore Turnover,38164,14864.38,2,Bangalore,Near Metro Freight Yard
+Godrej & Boyce,65.52,3068,Net 45 Days,90.12,67.55,55.22,92.73,86.86,₹2573.2 Crore Turnover,12786,1480.94,8,Bangalore,Near Metro Freight Yard
+Ashok Leyland,86.49,183823,Quarterly Credit Settlement,93.66,83.69,68.24,67.16,71.82,₹1192.13 Crore Turnover,30938,10988.05,23,Bangalore,Near Metro Freight Yard
+Bharat Forge,94.28,113752,Quarterly Credit Settlement,97.9,92.26,83.87,73.02,69.73,₹218.28 Crore Turnover,326,7978.2,11,Bangalore,Moderate Urban Traffic Access
+Jindal Steel & Power,79.5,50515,LC at Sight,84.82,71.95,75.34,95.86,69.47,₹1483.51 Crore Turnover,33947,17449.65,8,Bangalore,Near Industrial Corridor
+JSW Infrastructure,74.56,118345,Milestone Based Payment,94.34,83.73,66.83,68.59,77.35,₹827.07 Crore Turnover,26059,16525.23,12,Bangalore,Good Highway Connectivity
+Blue Dart Logistics,75.7,76266,Quarterly Credit Settlement,94.95,72.08,59.4,72.75,76.23,₹2877.61 Crore Turnover,9594,247.78,9,Bangalore,Moderate Urban Traffic Access
+Delhivery,82.62,119601,Quarterly Credit Settlement,68.66,64.55,68.5,97.06,72.28,₹1854.26 Crore Turnover,3424,7542.51,18,Bangalore,Near Metro Freight Yard
+FedEx India,73.38,53233,Milestone Based Payment,87.16,87.07,60.92,98.92,70.14,₹3420.02 Crore Turnover,974,5241.52,2,Bangalore,Near Metro Freight Yard
+Schneider Electric India,85.93,178289,Quarterly Credit Settlement,65.65,78.6,94.43,73.23,85.54,₹2684.74 Crore Turnover,12808,13504.62,25,Bangalore,Moderate Urban Traffic Access
+Siemens India,80.52,106581,Net 45 Days,84.71,80.36,58.61,93.4,72.19,₹717.89 Crore Turnover,15828,15896.63,5,Bangalore,Near Metro Freight Yard
+Honeywell Automation India,65.55,35254,"Advance 30%, Balance 70%",91.57,73.25,58.85,96.98,75.11,₹1850.71 Crore Turnover,11231,2647.63,26,Bangalore,Excellent Highway & Port Connectivity
+Wipro Infrastructure,68.74,47754,Net 45 Days,81.12,86.44,64.14,70.95,97.32,₹1846.89 Crore Turnover,2169,18431.14,13,Bangalore,Good Highway Connectivity
+HAL Aerospace Division,83.42,30355,"Advance 30%, Balance 70%",84.69,72.88,68.97,89.68,94.09,₹3113.84 Crore Turnover,12303,15760.06,18,Bangalore,Near Metro Freight Yard
+Biocon Manufacturing,70.33,184923,Net 45 Days,83.65,60.35,59.06,87.56,60.19,₹629.96 Crore Turnover,12089,12837.03,17,Bangalore,Excellent Highway & Port Connectivity
+Mylan Laboratories,97.82,94679,LC at Sight,87.77,69.02,68.02,90.38,84.69,₹2984.34 Crore Turnover,21000,5782.16,17,Bangalore,Near Industrial Corridor
+Dr Reddy’s Supply Chain,68.09,172390,Net 30 Days,84.82,69.52,78.59,98.28,78.5,₹3178.86 Crore Turnover,30866,14728.63,2,Bangalore,Near Industrial Corridor
+Aurobindo Pharma Logistics,84.04,107955,Net 30 Days,93.7,68.75,74.97,84.45,89.21,₹229.12 Crore Turnover,18709,17653.21,22,Bangalore,Near Metro Freight Yard
+Sun Pharma Manufacturing,94.16,164207,Net 30 Days,60.6,95.28,72.13,97.87,96.62,₹2997.29 Crore Turnover,310,5738.71,24,Bangalore,Moderate Urban Traffic Access
+Reliance Industrial Supplies,73.86,27141,"Advance 30%, Balance 70%",81.72,95.57,82.84,84.38,63.69,₹2183.32 Crore Turnover,11213,6711.93,11,Bangalore,Good Highway Connectivity
+Adani Logistics,93.95,197892,Quarterly Credit Settlement,93.1,65.19,83.36,83.8,71.27,₹1515.65 Crore Turnover,29712,11359.62,27,Bangalore,Near Metro Freight Yard
+Infosys Procurement Services,65.17,111127,"Advance 30%, Balance 70%",91.13,84.7,83.08,92.06,93.82,₹1235.94 Crore Turnover,13523,10759.54,24,Bangalore,Excellent Highway & Port Connectivity
+Tech Mahindra Supply Chain,87.18,119334,Net 30 Days,78.16,80.62,66.46,85.09,61.16,₹207.73 Crore Turnover,29869,9991.58,6,Bangalore,Good Highway Connectivity
+Flipkart Wholesale,82.23,151080,"Advance 30%, Balance 70%",70.59,96.68,73.29,93.63,67.39,₹1486.83 Crore Turnover,15322,11835.96,21,Bangalore,Good Highway Connectivity
+Amazon India Fulfillment,69.38,17519,Net 30 Days,87.87,61.56,70.95,79.74,88.27,₹937.94 Crore Turnover,32337,17813.48,24,Bangalore,Moderate Urban Traffic Access
+BigBasket Distribution,79.13,100735,Net 45 Days,75.95,66.59,61.26,73.51,80.87,₹2523.92 Crore Turnover,3463,9616.88,6,Bangalore,Near Metro Freight Yard
+Udaan Supply Network,85.19,191210,"Advance 30%, Balance 70%",61.86,81.51,61.35,69.09,72.99,₹393.95 Crore Turnover,44198,868.6,15,Bangalore,Near Industrial Corridor
+Metro Cash & Carry,97.32,160696,"Advance 30%, Balance 70%",78.49,63.72,74.66,81.1,66.58,₹1563.77 Crore Turnover,26766,1003.32,23,Bangalore,Moderate Urban Traffic Access
+Spencer’s Distribution,85.96,68885,Net 45 Days,70.17,60.58,92.34,82.04,80.5,₹2419.16 Crore Turnover,27783,1417.05,24,Bangalore,Near Metro Freight Yard
+Apollo Tyres Procurement,96.16,49615,Quarterly Credit Settlement,82.85,95.73,78.02,78.2,84.44,₹1647.22 Crore Turnover,35626,15203.35,13,Bangalore,Excellent Highway & Port Connectivity
+MRF Tire Supplies,77.74,38804,"Advance 30%, Balance 70%",85.41,67.85,65.96,72.3,74.34,₹213.25 Crore Turnover,34970,6305.87,27,Bangalore,Near Metro Freight Yard
+CEAT Industrial Supply,75.53,115085,Net 30 Days,86.58,72.94,65.43,81.87,86.33,₹1271.31 Crore Turnover,11458,16247.94,5,Bangalore,Near Metro Freight Yard
+Saint-Gobain India,78.79,44925,Net 30 Days,76.52,81.6,78.04,89.88,64.85,₹935.06 Crore Turnover,35031,6383.97,6,Bangalore,Excellent Highway & Port Connectivity
+UltraTech Cement Logistics,72.87,151722,Quarterly Credit Settlement,89.28,88.67,59.12,95.69,79.2,₹2906.48 Crore Turnover,818,1957.72,5,Bangalore,Excellent Highway & Port Connectivity
+MRF Tire Supplies - Unit 35,65.36,156038,Milestone Based Payment,63.56,72.13,93.0,97.32,81.79,₹2240.88 Crore Turnover,21484,1805.52,13,Bangalore,Good Highway Connectivity
+HAL Aerospace Division - Unit 35,75.85,142702,Milestone Based Payment,68.3,95.96,86.25,68.86,95.38,₹3411.93 Crore Turnover,23045,10220.34,6,Bangalore,Near Metro Freight Yard
+Reliance Industrial Supplies - Unit 29,89.32,74960,Quarterly Credit Settlement,73.69,64.45,60.72,90.89,83.49,₹425.84 Crore Turnover,1662,7951.56,9,Bangalore,Moderate Urban Traffic Access
+FedEx India - Unit 50,67.4,93605,Net 45 Days,94.78,65.57,75.53,72.93,82.09,₹3031.93 Crore Turnover,17869,15059.26,8,Bangalore,Near Metro Freight Yard
+Larsen & Toubro - Unit 24,97.54,91767,Net 30 Days,73.66,86.91,74.27,77.85,86.79,₹930.64 Crore Turnover,28298,2163.81,4,Bangalore,Near Metro Freight Yard
+Wipro Infrastructure - Unit 19,73.37,141007,"Advance 30%, Balance 70%",82.29,88.16,85.69,92.97,88.28,₹2409.15 Crore Turnover,14803,17804.73,18,Bangalore,Excellent Highway & Port Connectivity
+BigBasket Distribution - Unit 39,67.74,103833,Net 30 Days,77.02,90.48,94.12,83.9,72.26,₹228.43 Crore Turnover,27980,18370.69,6,Bangalore,Near Metro Freight Yard
+ABB India - Unit 4,73.35,161926,Net 30 Days,97.8,79.88,80.18,88.66,77.27,₹2226.25 Crore Turnover,40941,7181.63,24,Bangalore,Good Highway Connectivity
+Amazon India Fulfillment - Unit 22,66.5,79359,Net 30 Days,97.39,62.2,70.78,68.63,72.76,₹660.31 Crore Turnover,36607,6614.61,19,Bangalore,Near Industrial Corridor
+CEAT Industrial Supply - Unit 12,73.78,127516,Milestone Based Payment,70.14,77.22,56.29,74.51,75.63,₹2141.51 Crore Turnover,31591,3108.9,15,Bangalore,Near Metro Freight Yard
+Mahindra Logistics - Unit 10,67.51,177017,Milestone Based Payment,97.04,87.58,79.54,79.22,95.44,₹3041.94 Crore Turnover,29668,3149.65,25,Bangalore,Good Highway Connectivity
+Flipkart Wholesale - Unit 29,77.42,28212,LC at Sight,78.73,97.44,70.07,90.49,74.93,₹2915.74 Crore Turnover,21288,15528.48,3,Bangalore,Near Metro Freight Yard
+Blue Dart Logistics - Unit 50,66.22,9202,LC at Sight,70.66,62.14,89.59,92.64,97.99,₹3488.5 Crore Turnover,23694,14253.99,6,Bangalore,Excellent Highway & Port Connectivity
+Ashok Leyland - Unit 12,89.98,184902,"Advance 30%, Balance 70%",69.65,77.12,60.17,97.44,83.03,₹861.96 Crore Turnover,37864,14033.64,3,Bangalore,Moderate Urban Traffic Access
+Ashok Leyland - Unit 12 - Unit 34,76.82,138811,Quarterly Credit Settlement,60.87,78.93,74.05,93.27,71.7,₹2872.04 Crore Turnover,8547,10430.04,26,Bangalore,Good Highway Connectivity
+BigBasket Distribution - Unit 39 - Unit 36,84.47,19698,LC at Sight,61.12,88.7,79.81,88.94,68.09,₹546.39 Crore Turnover,13171,18140.9,19,Bangalore,Near Metro Freight Yard
+Blue Dart Logistics - Unit 50 - Unit 29,84.47,138513,Net 45 Days,81.64,63.46,84.06,83.61,77.13,₹3193.81 Crore Turnover,4757,11553.95,20,Bangalore,Moderate Urban Traffic Access
+Siemens India - Unit 48,88.02,103696,Quarterly Credit Settlement,65.74,95.21,74.68,73.78,77.45,₹3431.71 Crore Turnover,14508,6505.46,12,Bangalore,Excellent Highway & Port Connectivity
+CEAT Industrial Supply - Unit 12 - Unit 34,84.13,45502,"Advance 30%, Balance 70%",62.96,64.9,60.12,70.16,65.28,₹2271.79 Crore Turnover,42799,7686.33,4,Bangalore,Moderate Urban Traffic Access
+Biocon Manufacturing - Unit 38,82.0,115859,Net 45 Days,66.72,67.31,56.63,70.74,70.59,₹685.38 Crore Turnover,13836,10205.39,6,Bangalore,Near Metro Freight Yard
+Bosch India - Unit 20,80.21,150349,Milestone Based Payment,94.87,64.89,68.2,75.93,63.51,₹1725.52 Crore Turnover,43341,1622.73,12,Bangalore,Moderate Urban Traffic Access
+Flipkart Wholesale - Unit 29 - Unit 36,95.39,184368,Net 45 Days,60.1,93.0,58.38,85.31,97.48,₹1915.14 Crore Turnover,175,9025.53,27,Bangalore,Moderate Urban Traffic Access
+Ashok Leyland - Unit 12 - Unit 5,90.08,68161,Milestone Based Payment,78.04,88.4,56.47,73.58,87.11,₹3141.61 Crore Turnover,19301,13897.95,14,Bangalore,Excellent Highway & Port Connectivity
+BigBasket Distribution - Unit 39 - Unit 36 - Unit 43,93.62,89369,Net 30 Days,80.77,69.21,65.77,77.83,60.76,₹1181.51 Crore Turnover,30046,1759.58,13,Bangalore,Good Highway Connectivity
+Siemens India - Unit 48 - Unit 30,72.7,135168,Milestone Based Payment,83.15,85.81,86.57,81.95,63.3,₹1916.9 Crore Turnover,14489,10371.3,9,Bangalore,Near Metro Freight Yard
+Larsen & Toubro - Unit 24 - Unit 13,79.24,72774,"Advance 30%, Balance 70%",74.77,72.82,90.99,85.66,69.29,₹1784.01 Crore Turnover,3932,17281.26,22,Bangalore,Near Industrial Corridor
+Mahindra Logistics - Unit 11,68.36,116921,LC at Sight,74.25,78.54,89.03,67.99,90.62,₹270.33 Crore Turnover,13166,1069.06,9,Bangalore,Good Highway Connectivity
+HAL Aerospace Division - Unit 9,88.0,9611,LC at Sight,64.37,75.12,93.78,94.43,91.05,₹962.03 Crore Turnover,19055,13406.83,26,Bangalore,Moderate Urban Traffic Access
+Flipkart Wholesale - Unit 35,88.71,11454,"Advance 30%, Balance 70%",82.29,70.64,85.78,71.36,72.3,₹1534.99 Crore Turnover,37096,9858.46,2,Bangalore,Excellent Highway & Port Connectivity
+ABB India - Unit 13,85.15,43033,Net 30 Days,82.67,65.87,74.25,83.11,61.97,₹1231.19 Crore Turnover,129,10203.33,11,Bangalore,Excellent Highway & Port Connectivity
+ABB India - Unit 13 - Unit 16,97.67,117248,Net 45 Days,86.7,63.34,60.55,65.09,64.43,₹1698.23 Crore Turnover,32413,7689.64,18,Bangalore,Good Highway Connectivity
+Bosch India - Unit 12,93.07,12719,LC at Sight,97.64,64.72,84.23,96.9,66.89,₹307.42 Crore Turnover,5535,13382.94,9,Bangalore,Excellent Highway & Port Connectivity
+Infosys Procurement Services - Unit 21,92.32,59096,Milestone Based Payment,67.86,66.22,61.57,92.7,85.28,₹1868.88 Crore Turnover,20731,5931.69,11,Bangalore,Excellent Highway & Port Connectivity
+Sun Pharma Manufacturing - Unit 26,77.95,43803,Milestone Based Payment,77.63,87.12,90.99,86.22,80.51,₹1580.51 Crore Turnover,9304,4388.07,2,Bangalore,Moderate Urban Traffic Access
+BigBasket Distribution - Unit 39 - Unit 36 - Unit 43 - Unit 15,77.92,149953,Net 45 Days,62.6,68.7,76.71,79.67,72.65,₹2578.48 Crore Turnover,31393,2679.82,16,Bangalore,Near Industrial Corridor
+Adani Logistics - Unit 20,93.99,5908,"Advance 30%, Balance 70%",80.8,93.97,86.54,70.16,71.85,₹929.83 Crore Turnover,17454,2750.69,5,Bangalore,Near Industrial Corridor
+Siemens India - Unit 48 - Unit 30 - Unit 23,83.81,32765,Net 30 Days,79.27,88.68,59.12,83.24,74.4,₹1642.94 Crore Turnover,40751,9352.06,9,Bangalore,Moderate Urban Traffic Access
+Ashok Leyland - Unit 12 - Unit 34 - Unit 20,69.95,14882,Net 30 Days,75.95,89.33,55.49,85.35,81.49,₹2529.33 Crore Turnover,35004,15316.56,11,Bangalore,Excellent Highway & Port Connectivity
+CEAT Industrial Supply - Unit 12 - Unit 50,76.3,144571,"Advance 30%, Balance 70%",76.52,70.94,79.6,96.0,65.29,₹424.72 Crore Turnover,15448,452.87,12,Bangalore,Near Industrial Corridor
+Tech Mahindra Supply Chain - Unit 23,95.76,37719,Net 30 Days,95.83,90.02,55.92,87.15,89.31,₹1360.57 Crore Turnover,20650,13655.85,9,Bangalore,Moderate Urban Traffic Access
+Biocon Manufacturing - Unit 38 - Unit 32,92.73,179454,Net 30 Days,77.58,64.3,94.39,93.52,64.74,₹3229.28 Crore Turnover,34742,5844.35,20,Bangalore,Excellent Highway & Port Connectivity
+Spencer’s Distribution - Unit 28,84.51,68744,LC at Sight,74.79,88.28,63.22,91.78,82.94,₹470.79 Crore Turnover,34513,17026.95,3,Bangalore,Near Industrial Corridor
+BigBasket Distribution - Unit 39 - Unit 36 - Unit 32,80.37,9166,LC at Sight,88.76,77.18,63.98,80.38,65.35,₹683.24 Crore Turnover,2110,3162.13,22,Bangalore,Near Industrial Corridor
+Tech Mahindra Supply Chain - Unit 44,95.19,121508,Net 45 Days,90.44,70.55,63.8,72.23,79.58,₹3416.35 Crore Turnover,19936,2852.42,23,Bangalore,Near Industrial Corridor
+Dr Reddy’s Supply Chain - Unit 10,93.4,153138,LC at Sight,98.88,79.08,78.82,67.28,88.5,₹797.88 Crore Turnover,28085,3890.47,18,Bangalore,Near Industrial Corridor
+Biocon Manufacturing - Unit 38 - Unit 32 - Unit 2,66.21,90897,Milestone Based Payment,92.63,82.32,66.76,89.28,80.05,₹1907.84 Crore Turnover,38120,7486.03,7,Bangalore,Good Highway Connectivity
+Siemens India - Unit 48 - Unit 38,90.26,65655,Net 30 Days,67.1,92.75,92.84,77.69,70.29,₹2282.48 Crore Turnover,16558,2990.08,19,Bangalore,Near Industrial Corridor
+Ashok Leyland - Unit 12 - Unit 5 - Unit 39,93.61,110075,LC at Sight,61.06,68.43,64.24,87.84,60.75,₹436.05 Crore Turnover,19814,10586.37,20,Bangalore,Good Highway Connectivity
+HAL Aerospace Division - Unit 13,86.54,101858,"Advance 30%, Balance 70%",88.11,90.6,94.55,85.51,90.66,₹3372.26 Crore Turnover,41244,2713.08,15,Bangalore,Good Highway Connectivity
+BigBasket Distribution - Unit 39 - Unit 36 - Unit 43 - Unit 3,74.67,148899,Net 30 Days,63.39,84.06,84.44,93.84,64.67,₹3077.44 Crore Turnover,31539,13058.53,2,Bangalore,Near Industrial Corridor
+Ashok Leyland - Unit 12 - Unit 34 - Unit 29,91.98,88455,LC at Sight,73.1,91.35,69.52,66.16,91.56,₹1260.56 Crore Turnover,1399,10266.63,3,Bangalore,Near Metro Freight Yard
+Godrej & Boyce - Unit 11,93.42,121174,"Advance 30%, Balance 70%",96.99,89.02,60.6,94.53,78.52,₹3139.37 Crore Turnover,20727,3467.13,19,Bangalore,Excellent Highway & Port Connectivity
+Ashok Leyland - Unit 12 - Unit 23,65.74,3073,Net 30 Days,88.93,86.56,71.1,72.41,84.51,₹1522.23 Crore Turnover,41521,16672.52,3,Bangalore,Moderate Urban Traffic Access
+Bosch India - Unit 20 - Unit 37,73.99,82494,"Advance 30%, Balance 70%",92.08,80.13,87.6,81.94,62.55,₹1465.95 Crore Turnover,12995,3914.02,11,Bangalore,Excellent Highway & Port Connectivity
+BigBasket Distribution - Unit 39 - Unit 36 - Unit 43 - Unit 9,69.62,51726,Milestone Based Payment,95.1,93.21,78.9,85.42,85.27,₹679.77 Crore Turnover,11784,7817.0,27,Bangalore,Good Highway Connectivity
+Sun Pharma Manufacturing - Unit 26 - Unit 25,78.93,101871,Net 45 Days,97.39,67.01,58.61,91.21,62.59,₹2942.81 Crore Turnover,24183,16947.14,8,Bangalore,Moderate Urban Traffic Access
+Spencer’s Distribution - Unit 28 - Unit 45,85.14,116521,LC at Sight,78.57,85.22,92.47,89.91,68.17,₹186.65 Crore Turnover,1882,15587.32,18,Bangalore,Near Metro Freight Yard
+Larsen & Toubro - Unit 27,81.38,176992,Milestone Based Payment,66.03,83.69,73.97,76.71,73.36,₹1491.75 Crore Turnover,180,12772.84,11,Bangalore,Excellent Highway & Port Connectivity
+CEAT Industrial Supply - Unit 12 - Unit 50 - Unit 42,80.17,24854,Milestone Based Payment,91.94,90.38,82.79,74.25,82.43,₹1314.53 Crore Turnover,4210,17803.38,18,Bangalore,Near Metro Freight Yard
+Saint-Gobain India - Unit 17,96.36,94506,"Advance 30%, Balance 70%",80.33,63.29,93.33,90.79,84.28,₹2675.9 Crore Turnover,2541,11832.32,9,Bangalore,Near Industrial Corridor
+Ashok Leyland - Unit 12 - Unit 11,73.24,194124,Milestone Based Payment,85.22,86.34,57.06,87.78,61.68,₹2091.86 Crore Turnover,41480,3438.97,22,Bangalore,Near Industrial Corridor
+Biocon Manufacturing - Unit 38 - Unit 32 - Unit 2 - Unit 26,80.62,45313,Net 30 Days,64.7,87.78,62.7,68.92,76.03,₹2800.07 Crore Turnover,36182,15964.34,8,Bangalore,Moderate Urban Traffic Access
+FedEx India - Unit 50 - Unit 32,80.02,149422,Milestone Based Payment,92.33,61.41,78.85,72.82,64.58,₹343.18 Crore Turnover,29986,6366.9,24,Bangalore,Excellent Highway & Port Connectivity
+Flipkart Wholesale - Unit 11,78.35,172570,"Advance 30%, Balance 70%",72.3,80.5,86.63,75.84,83.78,₹3110.04 Crore Turnover,13857,16233.11,3,Bangalore,Near Metro Freight Yard
+Amazon India Fulfillment - Unit 22 - Unit 29,65.81,183965,Net 30 Days,98.62,60.01,62.42,78.05,95.44,₹319.5 Crore Turnover,41893,6566.08,18,Bangalore,Near Industrial Corridor
+Adani Logistics - Unit 25,78.26,74472,Net 45 Days,78.71,82.07,65.87,78.54,63.48,₹1230.39 Crore Turnover,12796,13579.16,18,Bangalore,Excellent Highway & Port Connectivity
+Ashok Leyland - Unit 12 - Unit 34 - Unit 25,68.65,34433,Net 45 Days,71.58,92.41,83.62,85.03,70.54,₹3193.36 Crore Turnover,35520,2132.01,26,Bangalore,Excellent Highway & Port Connectivity
+Siemens India - Unit 48 - Unit 30 - Unit 23 - Unit 46,87.43,43501,LC at Sight,91.12,69.84,78.54,98.4,93.6,₹2134.73 Crore Turnover,29877,11394.5,26,Bangalore,Near Metro Freight Yard
+Udaan Supply Network - Unit 33,89.53,193783,Net 30 Days,69.04,95.82,80.99,85.66,79.48,₹868.89 Crore Turnover,17440,3546.74,4,Bangalore,Good Highway Connectivity
+Biocon Manufacturing - Unit 38 - Unit 43,92.26,182520,LC at Sight,84.56,68.22,75.73,85.31,79.95,₹970.0 Crore Turnover,18970,14056.42,18,Bangalore,Excellent Highway & Port Connectivity
+Ashok Leyland - Unit 12 - Unit 5 - Unit 39 - Unit 37,70.08,160403,Milestone Based Payment,78.07,83.67,84.91,66.19,94.01,₹3021.63 Crore Turnover,17794,16247.73,4,Bangalore,Excellent Highway & Port Connectivity
+Adani Logistics - Unit 20 - Unit 15,74.01,65660,Net 45 Days,61.73,92.38,56.42,76.19,95.4,₹2594.43 Crore Turnover,15705,7627.37,16,Bangalore,Near Industrial Corridor
+BigBasket Distribution - Unit 39 - Unit 32,65.17,153326,Milestone Based Payment,88.21,78.84,58.24,72.49,85.96,₹340.37 Crore Turnover,38121,9220.79,20,Bangalore,Moderate Urban Traffic Access
+HAL Aerospace Division - Unit 14,92.21,133163,"Advance 30%, Balance 70%",85.82,80.66,89.58,89.95,79.81,₹3049.11 Crore Turnover,2259,15753.69,17,Bangalore,Good Highway Connectivity
+Godrej & Boyce - Unit 28,88.38,164702,LC at Sight,69.31,95.34,59.23,88.77,67.19,₹3095.2 Crore Turnover,9137,8675.34,24,Bangalore,Moderate Urban Traffic Access
+Flipkart Wholesale - Unit 29 - Unit 36 - Unit 19,65.17,3219,"Advance 30%, Balance 70%",73.07,88.25,61.43,92.81,91.62,₹1815.54 Crore Turnover,33182,3669.78,14,Bangalore,Excellent Highway & Port Connectivity
+Bosch India - Unit 12 - Unit 34,85.36,198244,"Advance 30%, Balance 70%",81.83,64.4,70.07,65.31,91.11,₹519.29 Crore Turnover,10826,14107.69,11,Bangalore,Good Highway Connectivity
+Udaan Supply Network - Unit 33 - Unit 4,79.26,144853,Milestone Based Payment,73.33,84.04,92.28,68.49,95.61,₹2432.57 Crore Turnover,7611,5651.71,18,Bangalore,Excellent Highway & Port Connectivity
+Siemens India - Unit 48 - Unit 38 - Unit 49,90.44,64388,LC at Sight,82.7,73.14,79.84,66.56,93.12,₹3409.33 Crore Turnover,24980,8316.71,4,Bangalore,Excellent Highway & Port Connectivity
+HAL Aerospace Division - Unit 9 - Unit 28,84.62,27583,Milestone Based Payment,60.96,60.84,67.94,81.61,89.28,₹2416.87 Crore Turnover,44689,3041.29,3,Bangalore,Near Metro Freight Yard
+Ashok Leyland - Unit 12 - Unit 5 - Unit 28,97.91,145860,Net 30 Days,63.99,92.46,76.08,93.08,71.34,₹2952.62 Crore Turnover,13381,4348.39,12,Bangalore,Near Metro Freight Yard
+Kirloskar Pneumatics - Unit 31,74.02,175985,Milestone Based Payment,65.89,76.43,92.74,79.27,84.26,₹1439.77 Crore Turnover,32316,18205.51,2,Bangalore,Near Industrial Corridor
+Flipkart Wholesale - Unit 29 - Unit 36 - Unit 4,75.58,151554,Milestone Based Payment,89.09,67.61,89.72,89.31,81.38,₹1692.64 Crore Turnover,20114,17915.4,15,Bangalore,Good Highway Connectivity
+Larsen & Toubro - Unit 24 - Unit 13 - Unit 44,71.72,168016,Quarterly Credit Settlement,90.29,89.3,88.79,90.87,83.8,₹528.86 Crore Turnover,41772,16879.55,27,Bangalore,Near Industrial Corridor
+Dr Reddy’s Supply Chain - Unit 10 - Unit 40,85.35,122913,Milestone Based Payment,78.02,60.05,78.93,85.65,69.41,₹1989.77 Crore Turnover,9328,3075.97,23,Bangalore,Near Industrial Corridor
+Adani Logistics - Unit 25 - Unit 19,84.21,49768,Milestone Based Payment,83.02,76.46,94.37,70.09,77.65,₹2407.16 Crore Turnover,29129,8941.28,7,Bangalore,Good Highway Connectivity
+Dr Reddy’s Supply Chain - Unit 21,74.62,153376,Milestone Based Payment,89.53,96.2,91.31,89.63,88.47,₹579.05 Crore Turnover,39619,18254.86,16,Bangalore,Near Industrial Corridor
+Flipkart Wholesale - Unit 10,81.46,96847,Net 45 Days,87.4,81.27,55.39,76.1,79.67,₹380.5 Crore Turnover,18453,730.27,21,Bangalore,Good Highway Connectivity
+Sun Pharma Manufacturing - Unit 44,76.81,52826,"Advance 30%, Balance 70%",65.18,81.57,82.58,92.22,67.61,₹652.79 Crore Turnover,6210,2403.16,7,Bangalore,Moderate Urban Traffic Access
+CEAT Industrial Supply - Unit 21,84.63,118332,Net 45 Days,62.03,80.57,83.36,94.61,87.14,₹2821.91 Crore Turnover,13749,11373.3,8,Bangalore,Good Highway Connectivity
+Bosch India - Unit 12 - Unit 34 - Unit 41,86.81,99011,Net 30 Days,81.36,91.06,73.09,86.88,80.0,₹2582.04 Crore Turnover,15433,1229.27,24,Bangalore,Near Industrial Corridor
+Udaan Supply Network - Unit 33 - Unit 4 - Unit 21,86.46,133132,Net 30 Days,94.0,68.33,94.03,76.45,66.92,₹2780.77 Crore Turnover,4910,922.5,13,Bangalore,Near Industrial Corridor
+Dr Reddy’s Supply Chain - Unit 45,83.33,105861,Net 45 Days,85.48,72.63,76.7,81.77,63.1,₹1459.15 Crore Turnover,39124,7810.19,16,Bangalore,Near Industrial Corridor
+HAL Aerospace Division - Unit 9 - Unit 42,73.5,161599,Milestone Based Payment,66.79,96.51,71.64,93.77,83.89,₹2594.9 Crore Turnover,36341,18273.0,25,Bangalore,Near Industrial Corridor
+Ashok Leyland - Unit 12 - Unit 34 - Unit 34,82.93,81318,Quarterly Credit Settlement,82.57,76.67,84.01,81.55,93.19,₹3160.4 Crore Turnover,12321,18355.41,27,Bangalore,Excellent Highway & Port Connectivity
+Ashok Leyland - Unit 12 - Unit 34 - Unit 34 - Unit 28,95.11,128767,LC at Sight,74.97,77.7,88.44,73.02,89.49,₹1466.16 Crore Turnover,12885,3422.58,13,Bangalore,Good Highway Connectivity
+Ashok Leyland - Unit 12 - Unit 34 - Unit 23,77.3,180725,Net 30 Days,67.06,92.47,74.69,73.41,93.09,₹1602.94 Crore Turnover,4719,10769.65,21,Bangalore,Good Highway Connectivity
+BigBasket Distribution - Unit 39 - Unit 36 - Unit 43 - Unit 9,84.57,46393,LC at Sight,85.43,71.86,70.96,94.17,60.34,₹2092.37 Crore Turnover,21059,2525.46,14,Bangalore,Near Industrial Corridor
+BigBasket Distribution - Unit 39 - Unit 32 - Unit 45,72.82,118654,Net 45 Days,94.46,76.8,68.24,80.26,85.44,₹578.49 Crore Turnover,6396,4691.37,12,Bangalore,Near Industrial Corridor
+Saint-Gobain India - Unit 17 - Unit 49,96.3,109356,Milestone Based Payment,66.51,66.37,56.47,90.04,85.22,₹1703.24 Crore Turnover,36456,13084.99,25,Bangalore,Near Industrial Corridor
+Adani Logistics - Unit 20 - Unit 48,84.32,198850,Net 30 Days,81.77,80.52,56.37,98.55,64.67,₹870.47 Crore Turnover,401,843.13,24,Bangalore,Moderate Urban Traffic Access
+Ashok Leyland - Unit 12 - Unit 5 - Unit 47,72.42,76760,LC at Sight,96.42,72.01,75.29,66.41,65.64,₹3454.28 Crore Turnover,1359,12728.09,3,Bangalore,Near Industrial Corridor
+Flipkart Wholesale - Unit 29 - Unit 9,75.66,61712,Net 30 Days,93.85,77.28,75.62,81.62,85.34,₹557.61 Crore Turnover,23031,2559.3,21,Bangalore,Good Highway Connectivity
+Larsen & Toubro - Unit 24 - Unit 22,88.25,44253,Net 30 Days,88.58,66.17,62.53,89.85,65.93,₹882.2 Crore Turnover,38126,17482.01,11,Bangalore,Near Industrial Corridor
+Saint-Gobain India - Unit 17 - Unit 49 - Unit 19,65.58,29125,Net 45 Days,84.1,93.02,77.82,66.03,95.38,₹2438.18 Crore Turnover,35960,4084.11,17,Bangalore,Good Highway Connectivity
+Ashok Leyland - Unit 12 - Unit 34 - Unit 20 - Unit 31,92.29,173859,Quarterly Credit Settlement,85.4,64.05,81.31,98.98,61.83,₹3421.94 Crore Turnover,7968,18377.53,14,Bangalore,Near Metro Freight Yard
+Bharat Forge - Unit 5,90.82,197596,Milestone Based Payment,64.26,84.72,85.61,96.47,76.65,₹3162.7 Crore Turnover,31236,14783.81,20,Bangalore,Good Highway Connectivity
+Mahindra Logistics - Unit 10 - Unit 43,93.67,4212,Milestone Based Payment,64.69,80.69,55.23,76.04,73.93,₹1434.91 Crore Turnover,9228,7112.11,26,Bangalore,Good Highway Connectivity
+MRF Tire Supplies - Unit 10,84.68,140499,Quarterly Credit Settlement,74.56,68.64,57.93,85.52,85.39,₹2198.66 Crore Turnover,35877,9318.18,22,Bangalore,Moderate Urban Traffic Access
+Blue Dart Logistics - Unit 43,93.49,167203,Net 30 Days,93.04,94.74,87.55,68.7,65.66,₹1881.05 Crore Turnover,27718,9927.61,16,Bangalore,Good Highway Connectivity
+Mahindra Logistics - Unit 11 - Unit 17,78.01,158538,Milestone Based Payment,91.71,87.29,93.22,65.62,67.44,₹105.87 Crore Turnover,27884,16625.8,26,Bangalore,Near Metro Freight Yard
+HAL Aerospace Division - Unit 14 - Unit 27,86.6,37414,Net 45 Days,62.35,95.51,69.06,68.45,78.46,₹958.18 Crore Turnover,28331,12436.37,16,Bangalore,Good Highway Connectivity
+MRF Tire Supplies - Unit 10 - Unit 40,82.56,122499,LC at Sight,63.5,87.27,71.0,98.21,91.28,₹1866.89 Crore Turnover,34174,12638.95,11,Bangalore,Moderate Urban Traffic Access
+FedEx India - Unit 32,91.39,64146,Net 30 Days,87.65,64.06,77.69,73.72,96.59,₹1733.73 Crore Turnover,34686,15113.46,13,Bangalore,Near Metro Freight Yard
+Ashok Leyland - Unit 12 - Unit 34 - Unit 37,66.43,145245,Quarterly Credit Settlement,64.38,60.1,80.52,82.52,82.55,₹2794.6 Crore Turnover,16513,3332.34,26,Bangalore,Good Highway Connectivity
+Larsen & Toubro - Unit 24 - Unit 22 - Unit 10,92.72,120003,Quarterly Credit Settlement,81.71,69.71,67.08,89.89,92.34,₹2376.27 Crore Turnover,23504,1875.94,5,Bangalore,Excellent Highway & Port Connectivity
+Siemens India - Unit 48 - Unit 38 - Unit 49 - Unit 4,69.94,128056,Net 45 Days,66.55,88.0,89.51,72.37,63.64,₹160.84 Crore Turnover,16134,4351.92,8,Bangalore,Good Highway Connectivity
+BigBasket Distribution - Unit 39 - Unit 36 - Unit 42,83.04,58493,Milestone Based Payment,70.02,84.02,57.34,69.82,70.43,₹2121.9 Crore Turnover,28602,8257.14,8,Bangalore,Near Industrial Corridor
+Ashok Leyland - Unit 12 - Unit 34 - Unit 18,88.91,56254,Milestone Based Payment,98.66,64.88,59.16,89.63,81.98,₹1017.63 Crore Turnover,12443,1694.4,2,Bangalore,Near Metro Freight Yard
+Larsen & Toubro - Unit 24 - Unit 22 - Unit 10 - Unit 3,84.66,16956,Net 45 Days,72.61,68.61,69.2,67.36,79.72,₹311.23 Crore Turnover,10876,1405.34,22,Bangalore,Near Metro Freight Yard
+Tech Mahindra Supply Chain - Unit 23 - Unit 21,73.95,166075,Milestone Based Payment,85.38,80.25,67.97,76.32,85.44,₹3479.96 Crore Turnover,19321,6790.92,4,Bangalore,Good Highway Connectivity
+Adani Logistics - Unit 25 - Unit 2,89.11,53863,"Advance 30%, Balance 70%",62.35,81.37,93.31,70.96,86.22,₹767.19 Crore Turnover,327,7646.2,26,Bangalore,Excellent Highway & Port Connectivity
+BigBasket Distribution - Unit 39 - Unit 36 - Unit 43 - Unit 15 - Unit 3,92.12,69119,Net 30 Days,73.56,85.27,86.82,96.52,68.92,₹1445.66 Crore Turnover,29421,18361.85,9,Bangalore,Near Industrial Corridor
+Larsen & Toubro - Unit 24 - Unit 13 - Unit 30,90.36,19252,Milestone Based Payment,92.84,79.8,79.94,68.03,88.7,₹516.78 Crore Turnover,11143,9435.69,21,Bangalore,Near Industrial Corridor
+FedEx India - Unit 50 - Unit 2,88.39,118913,Net 30 Days,64.59,68.64,68.67,77.95,73.16,₹897.57 Crore Turnover,19000,5735.54,21,Bangalore,Moderate Urban Traffic Access
+Siemens India - Unit 48 - Unit 38 - Unit 12,74.23,18573,Quarterly Credit Settlement,83.42,79.6,91.78,81.9,97.7,₹2991.87 Crore Turnover,36995,17224.34,11,Bangalore,Good Highway Connectivity
+Siemens India - Unit 48 - Unit 38 - Unit 21,82.81,87968,LC at Sight,74.84,93.36,89.72,92.4,90.02,₹1122.0 Crore Turnover,8384,6048.06,4,Bangalore,Near Industrial Corridor
+Mylan Laboratories - Unit 3,70.73,21109,"Advance 30%, Balance 70%",68.72,96.38,77.92,96.71,81.86,₹1719.39 Crore Turnover,30104,17080.28,15,Bangalore,Good Highway Connectivity
+Reliance Industrial Supplies - Unit 29 - Unit 48,69.59,31555,LC at Sight,89.83,66.64,75.1,78.55,65.56,₹1336.97 Crore Turnover,35852,594.42,26,Bangalore,Near Metro Freight Yard
+Metro Cash & Carry - Unit 46,72.67,40608,"Advance 30%, Balance 70%",81.43,96.7,72.3,75.6,79.23,₹1583.13 Crore Turnover,35382,11898.39,12,Bangalore,Excellent Highway & Port Connectivity
+Mahindra Logistics - Unit 10 - Unit 43 - Unit 32,85.45,40422,"Advance 30%, Balance 70%",82.01,67.29,63.47,81.48,88.66,₹2198.68 Crore Turnover,30278,18200.02,20,Bangalore,Moderate Urban Traffic Access
+Amazon India Fulfillment - Unit 22 - Unit 29 - Unit 4,70.63,193160,Quarterly Credit Settlement,64.73,71.52,59.04,88.53,62.37,₹1822.22 Crore Turnover,34526,4327.08,6,Bangalore,Excellent Highway & Port Connectivity
+Udaan Supply Network - Unit 33 - Unit 22,85.3,173351,Quarterly Credit Settlement,66.78,84.92,88.92,89.63,90.1,₹1464.41 Crore Turnover,33655,3697.16,8,Bangalore,Excellent Highway & Port Connectivity
+Tech Mahindra Supply Chain - Unit 38,82.34,28105,Net 30 Days,92.27,87.88,85.77,65.38,75.81,₹1726.2 Crore Turnover,37725,4895.37,11,Bangalore,Near Industrial Corridor
+Flipkart Wholesale - Unit 29 - Unit 36 - Unit 19 - Unit 20,87.47,137114,"Advance 30%, Balance 70%",84.14,72.29,88.37,86.4,67.56,₹300.99 Crore Turnover,791,9086.76,4,Bangalore,Near Industrial Corridor
+Amazon India Fulfillment - Unit 22 - Unit 26,73.77,142206,"Advance 30%, Balance 70%",77.72,92.09,58.92,81.6,65.7,₹1190.39 Crore Turnover,28531,12098.44,4,Bangalore,Excellent Highway & Port Connectivity
+Udaan Supply Network - Unit 33 - Unit 22 - Unit 39,77.4,26535,Net 30 Days,93.52,74.91,93.25,69.53,63.88,₹2332.73 Crore Turnover,25120,12767.92,17,Bangalore,Near Metro Freight Yard
+Biocon Manufacturing - Unit 21,73.4,90853,"Advance 30%, Balance 70%",61.5,94.27,73.46,86.66,85.06,₹3141.3 Crore Turnover,23592,11404.1,24,Bangalore,Near Metro Freight Yard
+Saint-Gobain India - Unit 17 - Unit 48,82.11,97222,Milestone Based Payment,64.12,97.55,72.73,66.63,61.44,₹2632.03 Crore Turnover,36344,1444.91,25,Bangalore,Near Metro Freight Yard
+MRF Tire Supplies - Unit 10 - Unit 43,68.48,84088,LC at Sight,79.83,74.73,73.48,98.71,96.89,₹3302.72 Crore Turnover,28258,7694.97,6,Bangalore,Good Highway Connectivity
+BigBasket Distribution - Unit 39 - Unit 2,86.79,126803,Net 45 Days,62.68,76.12,58.3,82.5,94.16,₹2756.1 Crore Turnover,35264,7140.05,19,Bangalore,Excellent Highway & Port Connectivity
+Siemens India - Unit 48 - Unit 30 - Unit 23 - Unit 27,65.34,182551,"Advance 30%, Balance 70%",83.99,89.44,80.76,83.03,61.59,₹3392.23 Crore Turnover,35084,2421.79,9,Bangalore,Near Metro Freight Yard
+Godrej & Boyce - Unit 28 - Unit 7,68.76,108712,Net 45 Days,95.89,79.79,79.66,70.33,61.66,₹458.96 Crore Turnover,24073,4248.43,26,Bangalore,Moderate Urban Traffic Access
+Mahindra Logistics - Unit 11 - Unit 17 - Unit 3,77.41,185665,Milestone Based Payment,77.14,83.29,92.72,73.18,64.62,₹755.35 Crore Turnover,33573,353.7,22,Bangalore,Near Industrial Corridor
+Ashok Leyland - Unit 12 - Unit 5 - Unit 39 - Unit 37 - Unit 43,74.43,124947,Net 45 Days,72.36,93.41,65.34,83.5,84.17,₹836.04 Crore Turnover,16117,15595.93,9,Bangalore,Near Industrial Corridor
+ABB India - Unit 4 - Unit 18,83.41,146143,Quarterly Credit Settlement,62.1,72.16,85.13,74.16,80.5,₹2569.58 Crore Turnover,13177,2541.17,16,Bangalore,Near Industrial Corridor
+Siemens India - Unit 48 - Unit 38 - Unit 49 - Unit 4 - Unit 29,68.03,180261,"Advance 30%, Balance 70%",68.33,79.22,88.63,89.92,80.61,₹2098.99 Crore Turnover,8826,5588.94,20,Bangalore,Good Highway Connectivity
+Biocon Manufacturing - Unit 38 - Unit 32 - Unit 2 - Unit 26 - Unit 37,70.0,30225,Milestone Based Payment,94.06,84.18,85.44,70.44,77.54,₹111.91 Crore Turnover,22776,13752.67,4,Bangalore,Near Industrial Corridor
+Flipkart Wholesale - Unit 29 - Unit 36 - Unit 6,97.73,194518,Milestone Based Payment,75.66,90.4,63.16,83.87,87.86,₹2186.67 Crore Turnover,25618,12763.31,17,Bangalore,Excellent Highway & Port Connectivity
+Siemens India - Unit 48 - Unit 38 - Unit 21 - Unit 21,90.87,117735,Net 45 Days,80.44,92.23,88.6,93.31,60.42,₹2643.45 Crore Turnover,40492,6882.75,12,Bangalore,Moderate Urban Traffic Access
+Jindal Steel & Power - Unit 37,89.96,5610,Milestone Based Payment,78.34,79.08,59.99,78.1,84.45,₹2748.97 Crore Turnover,1133,11020.15,6,Bangalore,Good Highway Connectivity
+Tech Mahindra Supply Chain - Unit 4,86.88,2523,Milestone Based Payment,66.96,61.1,61.68,71.16,74.73,₹1455.96 Crore Turnover,43710,8960.28,15,Bangalore,Near Industrial Corridor
+Ashok Leyland - Unit 12 - Unit 34 - Unit 37 - Unit 4,88.87,49368,LC at Sight,82.62,81.34,77.43,85.52,85.71,₹2833.06 Crore Turnover,28851,6040.35,15,Bangalore,Near Metro Freight Yard
+Bosch India - Unit 20 - Unit 37 - Unit 42,69.92,181387,"Advance 30%, Balance 70%",73.04,89.83,83.31,91.81,79.66,₹1585.48 Crore Turnover,29531,2369.28,18,Bangalore,Near Industrial Corridor
+Saint-Gobain India - Unit 17 - Unit 49 - Unit 19 - Unit 47,79.32,165509,Milestone Based Payment,74.49,62.38,87.05,91.06,87.88,₹1104.1 Crore Turnover,12568,7862.54,5,Bangalore,Good Highway Connectivity
+ABB India - Unit 4 - Unit 18 - Unit 45,81.37,128546,Milestone Based Payment,64.62,75.58,88.59,78.05,81.73,₹2090.17 Crore Turnover,30388,18125.91,4,Bangalore,Excellent Highway & Port Connectivity
+ABB India - Unit 44,65.86,94308,LC at Sight,82.85,82.29,82.91,96.61,89.74,₹271.99 Crore Turnover,25242,8017.09,20,Bangalore,Moderate Urban Traffic Access
+CEAT Industrial Supply - Unit 12 - Unit 50 - Unit 13,77.44,8499,"Advance 30%, Balance 70%",67.26,90.5,73.33,81.42,65.07,₹355.66 Crore Turnover,15198,16733.93,4,Bangalore,Excellent Highway & Port Connectivity
+Saint-Gobain India - Unit 17 - Unit 49 - Unit 19 - Unit 47 - Unit 28,79.42,69420,Milestone Based Payment,60.27,62.18,64.01,69.47,75.16,₹3235.37 Crore Turnover,23372,1387.45,13,Bangalore,Moderate Urban Traffic Access
+Saint-Gobain India - Unit 17 - Unit 2,66.47,141129,Milestone Based Payment,70.21,69.39,91.25,73.48,70.33,₹2677.14 Crore Turnover,9953,15647.23,7,Bangalore,Near Metro Freight Yard

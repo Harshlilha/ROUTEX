@@ -1,0 +1,20 @@
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { Landing } from './pages/Landing';
+import { Dashboard } from './pages/DashboardNew';
+
+function App() {
+  return (
+    <Router>
+      <div className="min-h-screen bg-black text-white">
+        <Routes>
+          <Route path="/" element={<Landing />} />
+          <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+}
+
+export default App;
+

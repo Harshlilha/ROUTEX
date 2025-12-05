@@ -1,0 +1,64 @@
+import { motion, AnimatePresence } from 'framer-motion';
+import { X } from 'lucide-react';
+import { ReactNode } from 'react';
+
+interface ModalProps {
+  isOpen: boolean;
+  onClose: () => void;
+  title?: string;
+  children: ReactNode;
+  size?: 'sm' | 'md' | 'lg' | 'xl';
+}
+
+export const Modal = ({ isOpen, onClose, title, children, size = 'md' }: ModalProps) => {
+  const sizes = {
+    sm: 'max-w-md',
+    md: 'max-w-2xl',
+    lg: 'max-w-4xl',
+    xl: 'max-w-6xl',
+  };
+
+  return (
+    <AnimatePresence>
+      {isOpen && (
+        <>
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            onClick={onClose}
+            className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50"
+          />
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 pointer-events-none">
+            <motion.div
+              initial={{ opacity: 0, scale: 0.95, y: 20 }}
+              animate={{ opacity: 1, scale: 1, y: 0 }}
+              exit={{ opacity: 0, scale: 0.95, y: 20 }}
+              className={`
+                ${sizes[size]} w-full
+                bg-white/10 backdrop-blur-2xl
+                border border-white/20
+                rounded-3xl shadow-2xl
+                pointer-events-auto
+                overflow-hidden
+              `}
+            >
+              {title && (
+                <div className="px-6 py-4 border-b border-white/10 flex items-center justify-between">
+                  <h2 className="text-xl font-semibold text-gray-900 dark:text-white">{title}</h2>
+                  <button
+                    onClick={onClose}
+                    className="p-2 hover:bg-white/10 rounded-lg transition-colors"
+                  >
+                    <X className="w-5 h-5 text-gray-600 dark:text-gray-400" />
+                  </button>
+                </div>
+              )}
+              <div className="p-6 max-h-[80vh] overflow-y-auto">{children}</div>
+            </motion.div>
+          </div>
+        </>
+      )}
+    </AnimatePresence>
+  );
+};
